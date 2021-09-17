@@ -1,0 +1,21 @@
+{
+  "name": "largest",
+  "main": "index.js",
+  "version": "1.0.0",
+  "description": "Get the largest number in a list",
+  "license": "MIT",
+  "repository": "arulprabakaran/largest",
+  "author": {
+    "name": "Arul Prabakaran",
+    "email": "arul.prabakaran@gmail.com",
+    "url": "arulprabakaran.web.app"
+  },
+  "scripts": {},
+  "keywords": [
+    "largest",
+    "number"
+  ],
+  "files": [
+    "index.js"
+  ]
+}
